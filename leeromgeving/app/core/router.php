@@ -1,0 +1,3 @@
+<?php
+// Router komt hier
+?>
